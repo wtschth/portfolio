@@ -3,49 +3,48 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
+      "title": "CAD Design",
+      "description": "Expert in using PTC Creo and Rhino3D for mechanical parts and assemblies. Experienced in Python and Grasshopper for model conversions."    },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Manufacturing & Assembly",
+      "description": "Adept at sourcing materials and suppliers, manufacturing coil parts, and assembling prototypes. Conduct verification measurements to ensure quality."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Project Management",
+      "description": "Skilled in end-to-end project management, including timelines, budgets, and team coordination. Delivered various gradient projects successfully."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Finite Element Analysis",
+      "description": "Competent in using Ansys Mechanical for FEA, especially in medical device design and composites material selection."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Rapid Imaging Gradient Insert",
+      "description": "Designed and delivered a prototype for rapid imaging. Worked closely with academic researchers.",
+      "link": "More Details"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Unipolar Head Gradient",
+      "description": "Led the mechanical design of a gradient coil that eliminates encoding ambiguity. Collaborated with industry partners.",
+      "link": "More Details"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Silent Gradient Coil",
+      "description": "Engineered a silent gradient coil with an integrated RF array, focusing on user comfort without compromising performance.",
+      "link": "More Details"
     }
   ],
   "testimonial": [
@@ -53,25 +52,25 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "description": "Wout's attention to detail and innovative approach significantly accelerated our project timeline.",
+      "author_name": "Jane Doe",
+      "author_designation": "Project Lead, XYZ Biotech"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "description": "An asset to any team, Wout brings a unique blend of technical skill and creative problem-solving.",
+      "author_name": "John Smith",
+      "author_designation": "Senior Researcher, ABC Institute"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "Wout's designs were not just innovative but also practical, striking a balance that's hard to find.",
+      "author_name": "Emily Johnson",
+      "author_designation": "Engineering Manager, DEF Corp."
     }
   ]
 }

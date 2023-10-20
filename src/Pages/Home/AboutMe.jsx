@@ -9,15 +9,10 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            With over 11 years of experience in aeronautical engineering and mechanical design, I've specialized in managing end-to-end engineering projects in the medical device field. My skills range from converting magnetic designs into CAD models using Python, Rhino3D, and Grasshopper, to detailed mechanical design in PTC Creo.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            I'm not just about the technical aspects; my role extends to sourcing materials, managing suppliers, and conducting verification tests. Passionate about innovation, I'm committed to pushing the boundaries in my field and delivering high-quality, impactful work.
           </p>
         </div>
       </div>
